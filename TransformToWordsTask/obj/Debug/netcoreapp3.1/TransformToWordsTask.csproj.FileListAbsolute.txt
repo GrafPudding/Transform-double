@@ -1,0 +1,10 @@
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\bin\Debug\netcoreapp3.1\TransformToWordsTask.deps.json
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\bin\Debug\netcoreapp3.1\TransformToWordsTask.dll
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\bin\Debug\netcoreapp3.1\TransformToWordsTask.pdb
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.csproj.AssemblyReference.cache
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.AssemblyInfoInputs.cache
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.AssemblyInfo.cs
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.csproj.CoreCompileInputs.cache
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.dll
+C:\Users\RomaNov\Source\Repos\transform-to-words\TransformToWordsTask\obj\Debug\netcoreapp3.1\TransformToWordsTask.pdb
